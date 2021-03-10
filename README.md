@@ -15,10 +15,10 @@ Voir les maquettes en format PNG dans :file_folder: `/mockup`.
 
 ## Preview
 ### Desktop preview
-![Desktop](.starter/mockup/desktop.png)
+![Desktop](./starter/mockup/desktop.png)
 ---
 ### Mobile preview
-![mobile](.starter/mockup/mobile.png)
+![mobile](./starter/mockup/mobile.png)
 ---
 ### Tablette preview
-![tablette](.starter/mockup/tablette.png)
+![tablette](./starter/mockup/tablette.png)
